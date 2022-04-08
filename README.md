@@ -5,8 +5,6 @@ This is a Dice game Inspired by Udemy - build with Html CSS And plain JS
 
 # Project 
 
->Leaderboard-Game
-
 ![screenshot Image](/)
 
 ## Built With
@@ -16,7 +14,7 @@ This is a Dice game Inspired by Udemy - build with Html CSS And plain JS
 
 ## Live Demo (if available)
 
-[dICE-Game](https://ezekielutshudi.github.io/Dice-Game/)
+[DICE-Game](https://ezekielutshudi.github.io/Dice-Game/)
 
 ## Getting Started
 
@@ -28,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 ```
-node and npm
+REFRESH THE PAGE TO SEE THE MAGIC
 ```
 
 ### Setup
