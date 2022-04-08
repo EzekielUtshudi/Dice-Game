@@ -46,7 +46,7 @@ open the html file
 ### Usage
 
 ```
-navigate through the pages to see different contents
+REFRESH THE PAGE TO SEE THE MAGIC !!!
 ```
 
 ### Deployment
